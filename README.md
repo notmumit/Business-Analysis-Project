@@ -11,8 +11,8 @@ This folder contains three complementary requirements documents for a conceptual
 ## Source materials
 
 The documents are based on:
-- `Ridgeway_USA_WBS.xlsx` (sheets: `UI_v2` and `Phase 1 V1`)
-- `Ridgeway_Sprint_Planning.xlsx` (Backlog, Sprint 01–08, Read Me)
+- `WBS.xlsx` (sheets: `UI_v2` and `Phase 1 V1`)
+- `Sprint Planning.xlsx` (Backlog, Sprint 01–08, Read Me)
 
 ## Important scope and accuracy notes
 
